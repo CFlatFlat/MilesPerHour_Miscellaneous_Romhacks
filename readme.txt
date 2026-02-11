@@ -1,1 +1,1 @@
-This is a general repository for my ROM hacks.
+This is a general repository for most of my ROM hacks.
